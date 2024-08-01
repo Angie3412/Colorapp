@@ -26,3 +26,7 @@
    `flutter pub get`
 7. Ejecutar la Aplicación
    `flutter run`
+
+   ## Prototipo de la Aplicacion
+![image](https://github.com/user-attachments/assets/f7446c7f-dd9f-4684-b159-6ff90abefade)
+
